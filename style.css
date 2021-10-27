@@ -1,0 +1,23 @@
+body {
+    background-color: 1F5081;
+}
+
+h2 {
+    color: 811F34;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+
+h1 {
+    text-align: center;
+    color:3CA237; 
+}
+
+th{
+    padding-left: 15px;
+}
+
+td{
+    padding-left: 20px;
+}
